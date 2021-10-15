@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Misspakaikan<<<<<<<<<<<<<<<<<<<
+- 👀 I’m interested in Game Cheater<<<<<<<<<<
+- 🌱 I’m currently learning C++,C#,VB.Net<<<<
+- 💞️ I’m looking to collaborate on Developer<
